@@ -7,12 +7,6 @@ serializing and deserializing.
 The goal is to handle HAL links and embedded objects as POJO properties with a data-binding similar to
 the normal Jackson JSON handling.
 
-# Status
-Module is considered production ready.
-
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dk.nykredit.jackson.dataformat/jackson-dataformat-hal/badge.svg)](https://maven-badges.herokuapp.com/maven-central/dk.nykredit.jackson.dataformat/jackson-dataformat-hal/)
-[![Javadoc](https://javadoc-emblem.rhcloud.com/doc/dk.nykredit.jackson.dataformat/jackson-dataformat-hal/badge.svg)](https://www.javadoc.io/doc/dk.nykredit.jackson.dataformat/jackson-dataformat-hal)
-
 # Usage
 
 The extension comes with a few annotations to mark the HAL links and embedded objects as well as a class
